@@ -7,6 +7,7 @@
 | Maintainer | Maximilian H.K. Hesselbarth                                    |
 | Contact    | [mhk.hesselbarth\@gmail.com](mailto:mhk.hesselbarth@gmail.com) |
 | Version    | 2021/06/07                                                     |
+| URL        | <https://allgeier-lab.github.io/open-data-resources/>          |
 
 ## Purpose
 
