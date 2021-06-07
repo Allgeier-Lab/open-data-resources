@@ -8,8 +8,9 @@ author: M.H.K. Hesselbarth
 # Theme
 theme: jekyll-theme-architect
 
+# If false, no Github button
 github:
-  is_project_page: false
+  is_project_page: true
 
 # Social networks
 social-network-links:
