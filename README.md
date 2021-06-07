@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-*Last updated*: 2021/06/07
+*Last updated*: 2021/06/07 (yyyy/mm/dd)
 
 ## Purpose
 
