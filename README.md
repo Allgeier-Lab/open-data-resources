@@ -50,4 +50,6 @@ Please note that this project is released with a [Contributor Code of Conduct](h
 
 ------------------------------------------------------------------------
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/AllgeierLab.svg?style=social&label=Follow%20@AllgeierLab)](https://twitter.com/AllgeierLab)
+<div align="center">
+
+![Twitter Follow](https://img.shields.io/twitter/follow/AllgeierLab)
