@@ -9,6 +9,7 @@ author: M.H.K. Hesselbarth
 # Theme
 theme: jekyll-theme-architect
 
+# If false, no Github button
 github:
   is_project_page: false
   
