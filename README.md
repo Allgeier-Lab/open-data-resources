@@ -4,8 +4,6 @@
 
 *Last updated*: 2021/06/07
 
-*URL*: <https://allgeier-lab.github.io/open-data-resources/>
-
 ## Purpose
 
 Growing list of interesting open-data resources maintained by and for the [Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com) at the University of Michigan. The list has a strong focus on data sources that can be accessed directly from an `R` session by providing an API. However, also other freely accessible databases are included.
