@@ -10,7 +10,7 @@
 
 Growing list of interesting open-data resources maintained by and for the [Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com) at the University of Michigan. The list has a strong focus on data sources that can be accessed directly from an `R` session by providing an API. However, also other freely accessible databases are included.
 
-## Contribuute to the list
+## Contribute to the list
 
 If you have any comments, suggestions, revisions, or improvements please open an [Issue](https://github.com/Allgeier-Lab/open-data-resources/issues) or submit a [Pull request](https://github.com/Allgeier-Lab/open-data-resources/pulls). If you do not have an GitHub account (and do not want to create one), you can also contact the maintainer directly using [e-mail](mailto:mhk.hesselbarth@gmail.com).
 
