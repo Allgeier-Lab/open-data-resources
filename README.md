@@ -6,13 +6,19 @@
 
 ## Purpose
 
-Growing list of interesting open-data resources maintained by and for the [Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com) at the University of Michigan. The list has a strong focus on data sources that can be accessed directly from an `R` session by providing an API. However, also other freely accessible databases are included.
+Growing list of interesting open-data resources maintained by and for the [Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com) at the University of Michigan. 
+The list has a strong focus on data sources that can be accessed directly from an `R` session by providing an API. 
+However, also other freely accessible databases are included.
 
 ## Contribute to the list
 
-If you have any comments, suggestions, revisions, or improvements please open an [Issue](https://github.com/Allgeier-Lab/open-data-resources/issues) or submit a [Pull request](https://github.com/Allgeier-Lab/open-data-resources/pulls). If you do not have an GitHub account (and do not want to create one), you can also contact the maintainer directly using [e-mail](mailto:mhk.hesselbarth@gmail.com).
+If you have any comments, suggestions, revisions, or improvements please open an [Issue](https://github.com/Allgeier-Lab/open-data-resources/issues) or submit a [Pull request](https://github.com/Allgeier-Lab/open-data-resources/pulls). 
+If you do not have an GitHub account (and do not want to create one), you can also contact the maintainer directly using [e-mail](mailto:mhk.hesselbarth@gmail.com).
+We highly appreciate any input and feedback. 
+Please always write one sentence per line to make tracking changes easier.
 
-Please note that this project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html). 
+By contributing to this project, you agree to abide by its terms.
 
 ## Resources
 

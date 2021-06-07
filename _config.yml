@@ -1,16 +1,15 @@
-
-# Name of website
-title: Open-data resources
-description: Homepage with links to open-data databases with strong focus on coastal ecology
-
-# Your name to show in the footer
-author: M.H.K. Hesselbarth
-
-# Theme
-theme: jekyll-theme-architect
-
-# If false, no Github button
-github:
-  is_project_page: true
-  
-show_downloads: false
+# # Name of website
+# title: Open-data resources
+# description: Homepage with links to open-data databases with strong focus on coastal ecology
+# 
+# # Your name to show in the footer
+# author: M.H.K. Hesselbarth
+# 
+# # Theme
+# theme: jekyll-theme-architect
+# 
+# # If false, no Github button
+# github:
+#   is_project_page: true
+#   
+# show_downloads: false
