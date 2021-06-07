@@ -2,8 +2,6 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-*Maintainer*: Maximilian H.K. Hesselbarth ([mhk.hesselbarth\@gmail.com](mailto:mhk.hesselbarth@gmail.com))
-
 *Last updated*: 2021/06/07
 
 *URL*: <https://allgeier-lab.github.io/open-data-resources/>
@@ -12,8 +10,8 @@
 
 Growing list of interesting open-data resources maintained by and for the [Coastal Ecology and Conservation Lab](https://www.jacoballgeier.com) at the University of Michigan. The list has a strong focus on data sources that can be accessed directly from an `R` session by providing an API. However, also other freely accessible databases are included.
 
-If you have any comments, suggestions, revisions, or improvements please open an [Issue](https://github.com/Allgeier-Lab/open-data-resources/issues) or submit a [Pull request](https://github.com/Allgeier-Lab/open-data-resources/pulls). If that is not possible for you, you can also contact ([mhk.hesselbarth\@gmail.com](mailto:mhk.hesselbarth@gmail.com)) directly.
-You can find the source code for this homepage [here](https://github.com/Allgeier-Lab/open-data-resources).
+If you have any comments, suggestions, revisions, or improvements please open an [Issue](https://github.com/Allgeier-Lab/open-data-resources/issues) or submit a [Pull request](https://github.com/Allgeier-Lab/open-data-resources/pulls). 
+If you do not have an GitHub account (and do not want to create one), you can also contact the maintainer directly using [e-mail](mailto:mhk.hesselbarth@gmail.com).
 
 Please note that this project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
 
