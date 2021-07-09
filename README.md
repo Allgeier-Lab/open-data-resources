@@ -40,6 +40,8 @@ By contributing to this project, you agree to abide by its terms.
 
 -   [rnoaa](https://docs.ropensci.org/rnoaa/): Access many [NOAA](https://www.ncdc.noaa.gov/cdo-web/webservices/v2) data sources.
 
+- [Global surface water explorer](https://global-surface-water.appspot.com/#): Location and temporal distribution of water surfaces at the global scale.
+
 ### Satellite data
 
 -   [getlandsat](https://github.com/ropensci/getlandsat): Access to [Landsat 8](https://landsat.usgs.gov) satellite data.
