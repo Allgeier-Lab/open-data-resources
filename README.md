@@ -1,14 +1,8 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
-
 # Open-data resources
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-*Last updated*: 2021/07/09 (yyyy/mm/dd)
+*Last updated*: 2021/08/02 (yyyy/mm/dd)
 
 ## Purpose
 
