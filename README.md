@@ -8,7 +8,7 @@ editor_options:
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-*Last updated*: 2021/06/07
+*Last updated*: 2021/07/09 (yyyy/mm/dd)
 
 ## Purpose
 
@@ -45,6 +45,8 @@ By contributing to this project, you agree to abide by its terms.
 -   [mregions](https://github.com/ropensci/mregions): Marine regions data from <http://www.marineregions.org/>, a standard list of marine georeferenced place names and areas.
 
 -   [rnoaa](https://docs.ropensci.org/rnoaa/): Access many [NOAA](https://www.ncdc.noaa.gov/cdo-web/webservices/v2) data sources.
+
+- [Global surface water explorer](https://global-surface-water.appspot.com/#): Location and temporal distribution of water surfaces at the global scale.
 
 ### Satellite data
 
