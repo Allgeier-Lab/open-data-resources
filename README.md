@@ -70,4 +70,4 @@ By contributing to this project, you agree to abide by its terms.
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/AllgeierLab.svg?style=social&label=Follow%20@AllgeierLab)](https://twitter.com/AllgeierLab)
+Follow us on [Twitter](https://twitter.com/AllgeierLab)!
