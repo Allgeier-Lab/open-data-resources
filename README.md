@@ -1,14 +1,8 @@
----
-editor_options: 
-  markdown: 
-    wrap: sentence
----
-
 # Open-data resources
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-*Last updated*: 2021/07/09 (yyyy/mm/dd)
+*Last updated*: 2021/08/19 (yyyy/mm/dd)
 
 ## Purpose
 
@@ -35,6 +29,14 @@ By contributing to this project, you agree to abide by its terms.
 -   [worrms](https://docs.ropensci.org/worrms): Access to [World Register of Marine Species](http://www.marinespecies.org/).
 
 -   [rfisheries](https://github.com/ropensci/rfisheries): Access to [Open Fisheries](http://www.openfisheries.org) providing global fishery data.
+
+-   [LTER](https://lter.limnology.wisc.edu/index.php/dataset/north-temperate-lakes-lter-fish-lengths-and-weights-1981-current): North Temperate Lakes LTER: Fish Lengths and Weights 1981 - current
+
+### Biodiversity
+
+-   [Ocean+ Liberay](https://library.oceanplus.org): Ocean+ Library connects to the latest data and online resources on ocean biodiversity.
+
+-   [UN global marine biodiversity](https://www.unep-wcmc.org/featured-projects/ocean-data-viewer): United Nations Environmental Programme World Conservation Monitoring Centre's map of global marine biodiversity
 
 ### (Marine) Environmental data
 
