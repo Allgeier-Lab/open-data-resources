@@ -11,11 +11,7 @@ title: Open-data resources
 #   twitter: true
 #   github: true
 
-# icon in URL
-avatar: "img/icon.jpeg"
-
-# make icon round
-round-avatar: true
+favicon: assets/favicon.ico
 
 plugins:
   - jekyll-remote-theme
