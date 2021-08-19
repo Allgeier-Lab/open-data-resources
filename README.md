@@ -23,7 +23,7 @@ If you do not have an GitHub account (and do not want to create one), you can al
 We highly appreciate any input and feedback.
 Please always write one sentence per line to make tracking changes easier.
 
-Please note that this project is released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/0/CODE_OF_CONDUCT.html).
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md).
 By contributing to this project, you agree to abide by its terms.
 
 ## Resources
