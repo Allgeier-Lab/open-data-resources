@@ -1,9 +1,19 @@
+# Open-data resources
+
+title: Open-data resources
+
+social-network-links:
+  github: AllgeierLab
+  twitter: AllgeierLab
+
 plugins:
   - jekyll-remote-theme
   - jekyll-relative-links
+
 relative_links:
   enabled: true
   collections: true
+
 include:
   - README.md
   - CODE_OF_CONDUCT.md
