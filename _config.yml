@@ -2,9 +2,20 @@
 
 title: Open-data resources
 
+# social network links to display
 social-network-links:
   github: AllgeierLab
   twitter: AllgeierLab
+  
+share-links-active:
+  twitter: true
+  github: true
+
+# icon in URL
+avatar: "img/icon.jpeg"
+
+# make icon round
+round-avatar: true
 
 plugins:
   - jekyll-remote-theme
