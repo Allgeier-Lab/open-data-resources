@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-*Last updated*: 2021/08/19 (yyyy/mm/dd)
+*Last updated*: 2021/08/30 (yyyy/mm/dd)
 
 Follow us on [Twitter](https://twitter.com/AllgeierLab) for news!
 
@@ -39,6 +39,8 @@ By contributing to this project, you agree to abide by its terms.
 -   [Ocean+ Liberay](https://library.oceanplus.org): Ocean+ Library connects to the latest data and online resources on ocean biodiversity.
 
 -   [UN global marine biodiversity](https://www.unep-wcmc.org/featured-projects/ocean-data-viewer): United Nations Environmental Programme World Conservation Monitoring Centre's map of global marine biodiversity
+
+-   [rvertnet](https://docs.ropensci.org/rvertnet/): Access to [VertNet](http://www.vertnet.org/index.html) that makes biodiversity data free and available on the web.
 
 ### (Marine) Environmental data
 

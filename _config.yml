@@ -6,12 +6,12 @@ title: Open-data resources
 # social-network-links:
 #   github: AllgeierLab
 #   twitter: AllgeierLab
-#   
+
 # share-links-active:
 #   twitter: true
 #   github: true
 
-favicon: assets/favicon.ico
+# favicon: assets/favicon.ico
 
 plugins:
   - jekyll-remote-theme
