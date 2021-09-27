@@ -2,7 +2,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-*Last updated*: 2021/08/30 (yyyy/mm/dd)
+*Last updated*: 2021/09/27 (yyyy/mm/dd)
 
 Follow us on [Twitter](https://twitter.com/AllgeierLab) for news!
 
@@ -69,3 +69,5 @@ By contributing to this project, you agree to abide by its terms.
 -   [rnaturalearth](https://github.com/ropensci/rnaturalearth): Access with [Natural Earth](http://www.naturalearthdata.com) database providing map datasets.
 
 -   [ecodata](https://github.com/TheoreticalEcology/ecodata): Collection of ecological datasets for teaching.
+
+- [Macroecology datasets](https://docs.google.com/spreadsheets/d/1lZ8XzhEnXOlkvepkxOnGvtRr3gTSNm3hlkRgELxfTLI/edit#gid=1150363964): Huge list of databases for macroecology.
