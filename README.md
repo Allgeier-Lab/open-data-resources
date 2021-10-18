@@ -73,3 +73,7 @@ By contributing to this project, you agree to abide by its terms.
 - [Macroecology datasets](https://docs.google.com/spreadsheets/d/1lZ8XzhEnXOlkvepkxOnGvtRr3gTSNm3hlkRgELxfTLI/edit#gid=1150363964): Huge list of databases for macroecology.
 
 - [Free GIS data](https://freegisdata.rtwilson.com): List with several free GIS data resources
+
+- [owidR](https://github.com/piersyork/owidR): Access the [Our World in Data](https://ourworldindata.org/biodiversity) database with all kind of different data (including biodiversity). 
+
+- [geodata](https://github.com/rspatial/geodata): Download geographic data from different sources.
